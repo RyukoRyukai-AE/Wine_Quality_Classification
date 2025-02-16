@@ -27,7 +27,7 @@ pip install -r requirements.txt
 The project follows this structure
 
 ```
-+ Possum_Tolength_Prediction
++ Wine_Quality_Classification
     + data
         + raw
         + processed
