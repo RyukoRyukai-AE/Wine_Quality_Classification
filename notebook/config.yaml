@@ -1,0 +1,4 @@
+paths:
+  data: "D:/Workspace/Machine_Learning/Supervised_Learning/Classification/Wine_Quality_Classification/data"
+  model: "D:/Workspace/Machine_Learning/Supervised_Learning/Classification/Wine_Quality_Classification/model"
+  figure: "D:/Workspace/Machine_Learning/Supervised_Learning/Classification/Wine_Quality_Classification/report/figures"
